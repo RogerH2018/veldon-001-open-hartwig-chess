@@ -13,7 +13,7 @@ See it in action : http://codepen.io/juliangarnier/full/BsIih
 
 ## Veldon Game adaptation
 
-[Play the Veldon Game version](https://rogerh2018.github.io/veldon-hartwig-chess/).
+[Play the Veldon Game version](https://rogerh2018.github.io/veldon-001-open-hartwig-chess/).
 
 This Chinese-language, local two-player adaptation was moved from [Veldon Game](https://github.com/RogerH2018/Veldon-Game/tree/04c439bc20404334d5c4b7c682049cb64e8a2b3d/games/open-source/hartwig-chess). It is based on [Julian Garnier's upstream version](https://github.com/juliangarnier/3D-Hartwig-chess-set/tree/24b3426265f5e048100f9502fd210de173460f89).
 
